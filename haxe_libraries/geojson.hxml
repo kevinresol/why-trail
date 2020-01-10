@@ -1,0 +1,3 @@
+-D geojson=0.9.7
+# @install: lix --silent download "gh://github.com/kevinresol/geojson#d66fdebe9399131db6439aade890370ac8edcde1" into geojson/0.9.7/github/d66fdebe9399131db6439aade890370ac8edcde1
+-cp ${HAXE_LIBCACHE}/geojson/0.9.7/github/d66fdebe9399131db6439aade890370ac8edcde1/src

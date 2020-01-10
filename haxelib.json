@@ -1,0 +1,16 @@
+{
+  "name": "why-trail",
+  "license": "MIT",
+  "tags": [
+    "tracking",
+    "audit",
+    "trail"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "kevinresol"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.0",
+  "dependencies": {}
+}
